@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  WeatherApp(VKIntership)
+
+  Created by Denis Raiko on 21.07.24.
+  
+*/
+"Clear" = "Clear";
+"Rain" = "Rain";
+"Thunderstorm" = "Thunderstorm";
+"Fog" = "Fog";
+"Rainbow" = "Rainbow";
+"Moon" = "Moon";
